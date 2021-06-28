@@ -1,6 +1,6 @@
 const DEBUG: bool = false;
 
-// FSM for a string containing ab
+// FSM for a string containing aa
 #[derive(Debug)]
 enum State {
     A,
